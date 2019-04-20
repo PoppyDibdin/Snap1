@@ -1,284 +1,276 @@
-<html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<link rel="profile" href="https://gmpg.org/xfn/11">
-<link rel="pingback" href="https://snapnudes.co/xmlrpc.php">
-<!--[if lt IE 9]>
-	<script src="https://snapnudes.co/wp-content/themes/bb-theme/js/html5shiv.js"></script>
-	<script src="https://snapnudes.co/wp-content/themes/bb-theme/js/respond.min.js"></script>
-<![endif]-->
-<title>Enter SnapNudes Group</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v9.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Snap nudes with sexy local people and find a local date. SnapNudes has hundreds of horny people waiting to chat and trade nude selfies. Snap nudes, get laid.">
-<link rel="canonical" href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Snap Nudes, Chat &amp; Nude Selfies">
-<meta property="og:description" content="Snap nudes with sexy local people and find a local date. SnapNudes has hundreds of horny people waiting to chat and trade nude selfies. Snap nudes, get laid.">
-<meta property="og:url" content="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1">
-<meta property="og:site_name" content="Snap Nudes">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Snap nudes with sexy local people and find a local date. SnapNudes has hundreds of horny people waiting to chat and trade nude selfies. Snap nudes, get laid.">
-<meta name="twitter:title" content="Snap Nudes, Chat &amp; Nude Selfies ">
-<meta name="twitter:site" content="@bmgapps">
-<meta name="twitter:image" content="https://snapnudes.co/wp-content/uploads/4.jpg">
-<meta name="twitter:creator" content="@bmgapps">
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/snapnudes.co\/","name":"Snap Nudes","potentialAction":{"@type":"SearchAction","target":"https:\/\/snapnudes.co\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/snapnudes.co\/","sameAs":["https:\/\/www.facebook.com\/bmgmobileapps\/","https:\/\/www.linkedin.com\/in\/bmgmobileapps","https:\/\/twitter.com\/bmgapps"],"@id":"https:\/\/snapnudes.co\/#organization","name":"Snap Nudes","logo":"https:\/\/snapnudes.co\/wp-content\/uploads\/logo.png"}</script>
-<!-- / Yoast SEO plugin. -->
+<!DOCTYPE html>
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<meta content='https://miracareoil.com/images/premium_quality.png' property='og:image'/>
+<meta content='text/html; charset=windows-1252' http-equiv='Content-Type'/>
+<style>
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
 
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-<link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Snap Nudes » Feed" href="https://snapnudes.co/feed/">
-<link rel="alternate" type="application/rss+xml" title="Snap Nudes » Comments Feed" href="https://snapnudes.co/comments/feed/">
-<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
-<link rel="stylesheet" id="fl-builder-google-fonts-abce5773d14fd2c071b72b08daaa090d-css" href="//fonts.googleapis.com/css?family=Roboto%3A700&amp;ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="fl-builder-layout-115-css" href="https://snapnudes.co/wp-content/uploads/bb-plugin/cache/115-layout.css?ver=77f66cbd3490bb98e82c1de3e5ce337f" type="text/css" media="all">
-<link rel="stylesheet" id="fl-builder-layout-bundle-adff8c612e690c29c76673a76cdedeba-css" href="https://snapnudes.co/wp-content/uploads/bb-plugin/cache/adff8c612e690c29c76673a76cdedeba-layout-bundle.css?ver=2.1.2.2-1.0.2.1" type="text/css" media="all">
-<link rel="stylesheet" id="tablepress-default-css" href="https://snapnudes.co/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="fl-builder-google-fonts-67d0baccfb3e96fb66ce881b882862c6-css" href="https://fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%7CRoboto%3A700%2C400&amp;ver=4.9.8" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=2.1.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="mono-social-icons-css" href="https://snapnudes.co/wp-content/themes/bb-theme/css/mono-social-icons.css?ver=1.6.2" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-magnificpopup-css" href="https://snapnudes.co/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.css?ver=2.1.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap-css" href="https://snapnudes.co/wp-content/themes/bb-theme/css/bootstrap.min.css?ver=1.6.2" type="text/css" media="all">
-<link rel="stylesheet" id="fl-automator-skin-css" href="https://snapnudes.co/wp-content/uploads/bb-theme/skin-5c1482bc191df.css?ver=1.6.2" type="text/css" media="all">
-<link rel="stylesheet" id="animate-css" href="https://snapnudes.co/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=2040382021" type="text/css" media="all">
-<script type="text/javascript" src="https://snapnudes.co/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://snapnudes.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<link rel="https://api.w.org/" href="https://snapnudes.co/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://snapnudes.co/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://snapnudes.co/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.8">
-<link rel="shortlink" href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1">
-		<style>form[class*="fl-builder-pp-"] .fl-lightbox-header h1:before{content:"PowerPack";position:relative;display:inline-block}</style>
-		<!-- start Simple Custom CSS and JS -->
-<style type="text/css">@media only screen and (max-width:768px){.fl-col{clear:unset}.menu-button-mobile{float:left;margin-top:0%}.main-logo-mobile{margin-top:-6%}header .fl-module-content{margin:4px}.fl-node-5a654b1f571f0{width:60%!important}.fl-row[data-node]>.fl-row-content-wrap{padding:0px}}.navigation.active #show1{opacity:0;-moz-animation:cssAnimation 0s ease-in .4s forwards;-webkit-animation:cssAnimation 0s ease-in .4s forwards;-o-animation:cssAnimation 0s ease-in .4s forwards;animation:cssAnimation 0s ease-in .4s forwards;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}@keyframes cssAnimation {
-    to {
-        opacity: 1;
-    }
-    form {
-        opacity: 0;
-    }
-}@-webkit-keyframes cssAnimation {
-    to {
-        opacity: 1;
-    }
-    from{
-      opacity: 0;
-    }
-}.navigation.active .navigation__inner ul{opacity:0;-moz-animation:cssAnimations 0s ease-in .4s forwards;-webkit-animation:cssAnimations 0s ease-in .4s forwards;-o-animation:cssAnimations 0s ease-in .4s forwards;animation:cssAnimations 0s ease-in .4s forwards;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}@keyframes cssAnimations {
-    to {
-        opacity: 1;
-    }
-    form {
-        opacity: 0;
-    }
-}@-webkit-keyframes cssAnimations {
-    to {
-        opacity: 1;
-    }
-    from{
-      opacity: 0;
-    }
-}#msform input,#msform textarea.form-email{border:0px solid #ccc;border-bottom:2px solid #ddd;background-color:#fff}</style>
-<!-- end Simple Custom CSS and JS -->
-<!-- start Simple Custom CSS and JS -->
-<style type="text/css">.snap-box{border:2px solid #cbcbcb;padding:20px;border-radius:2px}.snap-title{font-size:14px;padding-left:10px;color:#000!important}.snap-button{background:#a15ed1;padding:13px;color:#fff;border-radius:50px;font-size:18px;padding-left:40px;padding-right:40px;border:2px solid #d5c1dd}.snap-pic{width:30%}.btn-pic{width:35%;margin-left:65%;display:block}.vm-btn{text-align:right;cursor:pointer}.vm-content{display:none;margin-top:30px}</style>
-<!-- end Simple Custom CSS and JS -->
-<!-- start Simple Custom CSS and JS -->
-<script type="text/javascript">jQuery(document).ready(function($){$('#vm-btn-1').click(function(){$('#vm-content-1').slideToggle();});$('#vm-btn-2').click(function(){$('#vm-content-2').slideToggle();});$('#vm-btn-3').click(function(){$('#vm-content-3').slideToggle();});$('#vm-btn-4').click(function(){$('#vm-content-4').slideToggle();});$('#vm-btn-5').click(function(){$('#vm-content-5').slideToggle();});$('#vm-btn-6').click(function(){$('#vm-content-6').slideToggle();});$('#vm-btn-7').click(function(){$('#vm-content-7').slideToggle();});$('#vm-btn-8').click(function(){$('#vm-content-8').slideToggle();});$('#vm-btn-9').click(function(){$('#vm-content-9').slideToggle();});$('#vm-btn-10').click(function(){$('#vm-content-10').slideToggle();});$('#vm-btn-11').click(function(){$('#vm-content-11').slideToggle();});$('#vm-btn-12').click(function(){$('#vm-content-12').slideToggle();});$('#vm-btn-13').click(function(){$('#vm-content-13').slideToggle();});$('#vm-btn-14').click(function(){$('#vm-content-14').slideToggle();});$('#vm-btn-15').click(function(){$('#vm-content-15').slideToggle();});});</script>
-<!-- end Simple Custom CSS and JS -->
-		<style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important}</style>
-		<meta name="p:domain_verify" content="44d8b0df62324aa691e193f1fd84a2f7">
-<meta name="google-site-verification" content="vt7D8m_pag1MeLgOGv2Oolnn2GxIq4OCYJc14911hfo">
-<link rel="manifest" href="/manifest.json">
-<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
-<script>var OneSignal=window.OneSignal||[];OneSignal.push(function(){OneSignal.init({appId:"d08f4ff7-2c1d-452c-af5c-a49b8a1e4b3b",});});</script>
-<meta name="google-site-verification" content="vt7D8m_pag1MeLgOGv2Oolnn2GxIq4OCYJc14911hfo">
-<meta name="google-site-verification" content="vt7D8m_pag1MeLgOGv2Oolnn2GxIq4OCYJc14911hfo"><link rel="icon" href="https://snapnudes.co/wp-content/uploads/cropped-SnapNudes-1-32x32.png" sizes="32x32">
-<link rel="icon" href="https://snapnudes.co/wp-content/uploads/cropped-SnapNudes-1-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://snapnudes.co/wp-content/uploads/cropped-SnapNudes-1-180x180.png">
-<meta name="msapplication-TileImage" content="https://snapnudes.co/wp-content/uploads/cropped-SnapNudes-1-270x270.png">
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body
+{
+     background-color: gray; 
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+.black-bg
+{
+    width: 100%;
+    height: 150%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background: rgba(0,0,0,0.75);
+    z-index: 10;
+}
+.feed
+{
+    max-width: 420px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: HN,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.header
+{
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+    background-color: #1994FC;
+    text-align: center;
+}
+.header img
+{
+    width: 180px;   
+}
+.window
+{
+    position: relative;
+    z-index:100;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px;
+    
+}
+.profile
+{
+    background-color: white;
+    padding: 0px 20px;
+    box-sizing: border-box;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+}
+.profile img
+{
+    width: 100%;
+    
+}
+.profile-header
+{
+    padding: 10px 0px 15px 0px;
+    line-height: 30px;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1px;
+    margin-bottom: 0px;
+    color: #e81d24;
+}
+.profile-footer
+{
+    padding: 10px 0px;
+    line-height: 20px;
+    text-align: left;
+}
+.profile-buttons
+{
+    padding: 5px 0px 10px 0px;  
+    width: 100%;
+}
+.profile-buttons a
+{
+    box-sizing: border-box;
+    display: inline-block;
+    width:48%;
+    background-color: #1b9dd8;
+    color:#FFF;
+    text-align: center;
+    padding: 15px 0px;
+    margin-right: 2%;
+    text-transform: uppercase;
+    font-weight: bold; 
+}
+.profile-buttons a:last-child
+{
+   margin-right: 0%; 
+   background-color: #8A9196;
+}
+.username
+{
+    font-weight: bold;
+    padding: 4px 0px;
+}
+.warning
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 20px 0px;
+    font-weight: 24px;
+}
+.button-bg
+{
+    box-sizing: border-box;
+    position:fixed;
+    width: 100%;
+    padding: 5px 20px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+.avatar {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border: 5px;
+}
+.shkrim
+{
+    font-weight: bold;
+    padding: 4px 0px;
+font-size: 22px;
+}
 
-<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-103019971-1','auto');ga('send','pageview');</script>
-<!-- END ExactMetrics Universal Analytics -->
-		<style type="text/css" id="wp-custom-css">.um-member-photo .avatar.gravatar{width:200px;height:200px;border-radius:20%!important}.avatar.gravatar{border-radius:50%!important}#menu-item-1951{top:-20px}#menu-item-1951 img{width:45px}</style>
-	<link rel="stylesheet" href="https://snapnudes.co/wp-content/themes/bb-theme-child/style.css"></head>
+.step
+{
+    font-weight: normal;
+    padding: 4px 0px;
+text-align: left;
+font-size: 19px;
+}
+div.wrap {
+    width: 110px;
+    border: 0px solid #f00;
+    height: 110px;
+    position: relative;
+border-radius: 50%;
+}
 
-<body data-rsssl="1" class="home page-template-default page page-id-115 fl-builder fl-theme-builder-header fl-theme-builder-footer fl-preset-default fl-full-width fl-search-active" itemscope="itemscope" itemtype="http://schema.org/WebPage" style="padding-top: 0px;">
+.wrap img {
+    border: 0px solid blue;
+     position: absolute;
+    bottom: 0;
+border-radius: 50%;
+}
 
-<div class="fl-page">
-	<header class="fl-builder-content fl-builder-content-1844 fl-builder-global-templates-locked" data-post-id="1844" itemscope="itemscope" itemtype="http://schema.org/WPHeader" data-sticky="1" data-shrink="1" data-overlay="0" data-overlay-bg="transparent"><div class="fl-row fl-row-full-width fl-row-bg-pp_gradient fl-node-5a654b1f56777 header" data-node="5a654b1f56777">
-	<div class="fl-row-content-wrap">
-				<div class="fl-row-content fl-row-fixed-width fl-node-content">
-		
-<div class="fl-col-group fl-node-5a654b1f571a9" data-node="5a654b1f571a9">
-			<div class="fl-col fl-node-5c064df557b58 fl-col-small" data-node="5c064df557b58">
-	<div class="fl-col-content fl-node-content">
-	<div class="fl-module fl-module-html fl-node-5c064df5578b6 menu-button-mobile" data-node="5c064df5578b6">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-html">
-	<button id="show" onclick="on()"><i class="fa fa-bars"></i></button></div>
-	</div>
-</div>
-	</div>
-</div>
-			<div class="fl-col fl-node-5a654b1f571f0 fl-col-small" data-node="5a654b1f571f0">
-	<div class="fl-col-content fl-node-content">
-	<div class="fl-module fl-module-photo fl-node-5bad61cbd2b0d main-logo-mobile" data-node="5bad61cbd2b0d">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-photo fl-photo-align-center" itemscope="" itemtype="https://schema.org/ImageObject">
-	<div class="fl-photo-content fl-photo-img-png">
-				<a href="https://snapnudes.co" target="_self" itemprop="url">
-				<img class="fl-photo-img wp-image-3625" src="https://snapnudes.co/wp-content/uploads/SnapNudes-2.png" alt="SnapNudes Logo" itemprop="image" title="SnapNudes" srcset="https://snapnudes.co/wp-content/uploads/SnapNudes-2.png 514w, https://snapnudes.co/wp-content/uploads/SnapNudes-2-300x93.png 300w" sizes="(max-width: 514px) 100vw, 514px">
-				</a>
-					</div>
-	</div>
-	</div>
-</div>
-	</div>
-</div>
-			<div class="fl-col fl-node-5a654b1f572ba fl-col-small" data-node="5a654b1f572ba">
-	<div class="fl-col-content fl-node-content">
-	<div class="fl-module fl-module-button fl-node-5a9a084d4155e fl-visible-desktop-medium top-snap-button" data-node="5a9a084d4155e">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-button-wrap fl-button-width-auto fl-button-right">
-			<a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1" target="_self" class="fl-button" role="button">
-							<span class="fl-button-text">Snap Sexting</span>
-					</a>
-</div>
-	</div>
-</div>
-	</div>
-</div>
-	</div>
-		</div>
-	</div>
-</div>
-</header>	<div class="fl-page-content" itemprop="mainContentOfPage">
+.wrap img:nth-of-type(1) {
+    left: 210%;
+}
 
-		
-<div class="fl-content-full container">
-	<div class="row">
-		<div class="fl-content col-md-12">
-							<article class="fl-post post-115 page type-page status-publish hentry" id="fl-post-115" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+.wrap img:nth-of-type(2) {
+    right: 0%;
+}
 
-			<div class="fl-post-content clearfix" itemprop="text">
-		<div class="fl-builder-content fl-builder-content-115 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="115"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-5c23cb9cb9dba" data-node="5c23cb9cb9dba">
-	<div class="fl-row-content-wrap">
-				<div class="fl-row-content fl-row-full-width fl-node-content">
-		
-<div class="fl-col-group fl-node-5c23cb9cc1a83" data-node="5c23cb9cc1a83">
-			<div class="fl-col fl-node-5c23cb9cc1c4f" data-node="5c23cb9cc1c4f">
-	<div class="fl-col-content fl-node-content">
-	<div class="fl-module fl-module-html fl-node-5c23cb9cb9ac1" data-node="5c23cb9cb9ac1">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-html">
-	<div class="row">
-		<div class="col-md-2 col-sm-2 col-xs-2 selection-box">
-			<div class="selection-box-inner">
-				<img src="https://snapnudes.co/wp-content/uploads/4.jpg">
-				<table>
-					<tbody><tr>
-						<td><img src="https://snapnudes.co/wp-content/uploads/right.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><h3>Kayla</h3></a><p>Fun loving girl that wants to party</p></td>
-						<td><a><img src="https://snapnudes.co/wp-content/uploads/smily.png"></a></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><img src="https://snapnudes.co/wp-content/uploads/heart.png"></a></td>
-					</tr>
-				</tbody></table>
-			</div>
-		</div>
+} 
+.aaa:focus, [type="submit"]:focus {
+   outline: none;
+    
 
-		<div class="col-md-2 col-sm-2 col-xs-2 selection-box">
-			<div class="selection-box-inner">
-				<img src="https://snapnudes.co/wp-content/uploads/2.jpg">
-				<table>
-					<tbody><tr>
-						<td><img src="https://snapnudes.co/wp-content/uploads/right.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><h3>Amanda</h3></a><p>I need a daddy, are you out there?</p></td>
-						<td><a><img src="https://snapnudes.co/wp-content/uploads/smily.png"></a></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><img src="https://snapnudes.co/wp-content/uploads/heart.png"></a></td>
-					</tr>
-				</tbody></table>
-			</div>
-		</div>
+}
+</style>
+<title>Premium Quality Guaranteed</title>
+<meta content='https://miracareoil.com/images/premium_quality.png' property='og:image'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<link href='https://www.blogger.com/openid-server.g' rel='openid.server'/>
 
-		<div class="col-md-2 col-sm-2 col-xs-2 selection-box hide1">
-			<div class="selection-box-inner">
-				<img src="https://snapnudes.co/wp-content/uploads/3.jpg">
-				<table>
-					<tbody><tr>
-						<td><img src="https://snapnudes.co/wp-content/uploads/right.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><h3>Maria</h3></a><p>Anyone into threesomes?</p></td>
-						<td><img src="https://snapnudes.co/wp-content/uploads/smily.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><img src="https://snapnudes.co/wp-content/uploads/heart.png"></a></td>
-					</tr>
-				</tbody></table>
-			</div>
-		</div>
-
-		<div class="col-md-2 col-sm-2 col-xs-2 selection-box hide1">
-			<div class="selection-box-inner">
-				<img src="https://snapnudes.co/wp-content/uploads/1-1.jpg">
-				<table>
-					<tbody><tr>
-						<td><img src="https://snapnudes.co/wp-content/uploads/right.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><h3>Macy</h3></a><p>I just want a cuddle buddy, lets meet!</p></td>
-						<td><a><img src="https://snapnudes.co/wp-content/uploads/smily.png"></a></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><img src="https://snapnudes.co/wp-content/uploads/heart.png"></a></td>
-					</tr>
-				</tbody></table>
-			</div>
-		</div>
-
-		<div class="col-md-2 col-sm-2 col-xs-2 selection-box hide1">
-			<div class="selection-box-inner">
-				<img src="https://snapnudes.co/wp-content/uploads/5.jpg">
-				<table>
-					<tbody><tr>
-						<td><img src="https://snapnudes.co/wp-content/uploads/right.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><h3>Ariel</h3></a><p>Puppies and hotdogs 😉</p></td>
-						<td><img src="https://snapnudes.co/wp-content/uploads/smily.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><img src="https://snapnudes.co/wp-content/uploads/heart.png"></a></td>
-					</tr>
-				</tbody></table>
-			</div>
-		</div>
-
-		<div class="col-md-2 col-sm-2 col-xs-2 selection-box hide1">
-			<div class="selection-box-inner">
-				<img src="https://snapnudes.co/wp-content/uploads/6.jpg">
-				<table>
-					<tbody><tr>
-						<td><img src="https://snapnudes.co/wp-content/uploads/right.png"></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><h3>Sharon</h3></a><p>I just want a guy who will fuck right</p></td>
-						<td><a><img src="https://snapnudes.co/wp-content/uploads/smily.png"></a></td>
-						<td><a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1"><img src="https://snapnudes.co/wp-content/uploads/heart.png"></a></td>
-					</tr>
-				</tbody></table>
-			</div>
-		</div>
-	</div></div>
-	</div>
+</head>
+<body>
+<div class='black-bg'>
 </div>
-<div class="fl-module fl-module-rich-text fl-node-5c3996a42bcc8" data-node="5c3996a42bcc8">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-rich-text">
-	<h1 style="text-align: center;"><span style="font-size: 20px;">Register and Trade Nudes with +1,000 Real Girls on Group Chat or Private!</span></h1>
+<div class='feed'>
+<div class='window'>
+<div class='profile'>
+<div class='profile-header'>READ THIS</div>
+<div class='cycle-slideshow'>
+<a href=''></a><img src=''/>
 </div>
-	</div>
+<div class='shkrim'><font color='Green'>Attention!</font>
+<a>Complete 3 Steps To Be Part Of Us</a></div><br/><br/>
+<div class='step'><font color='red'>Step 1:</font>
+<a>Answer a few questions and sign up with your email </a><br/><br/>
+<font color='red'>Step 2:</font>
+<a>BE CAREFUL! Don't forget to open your email and check your inbox for account activitation   </a><br/>
+<br/>
+<font color='red'>Step 3:</font><a> Activate account and give a screenshot </a></div>
+<div class='shkrim'><font color='gray'>Select your gender<br/> to continue</font></div><br/>
+<div class='aaa'>
+<a href='https://yourloveamusement.com/ymgsjqkmuqeqxcm'>
+<img src='https://3.bp.blogspot.com/-Ijsxqs1jaS4/XKuFk3NwhYI/AAAAAAAAAFI/6FJo5hJKB04mDQT2iNXzRJN4oLGpZNbfACLcBGAs/s1600/Capture.JPG'/></a>
+</div><br/>
+<!--<div class='wrap'><img src="https://www.cyberground.it/wp-content/uploads/2018/01/Fred_man-512.png" align="left"/> <img src="http://www.twwd.org/dashboard/wp-content/uploads/2018/06/female-avatar-500x500.png" align="right"/><br/> </div><br/><br/>-->
+<!--<div class='profile-buttons'> <a href=''>FREE TRIAL</a><a href=''>LIVE SHOW +18</a> </div>-->
 </div>
-<div class="fl-module fl-module-button fl-node-5a54520c1977d" data-node="5a54520c1977d">
-	<div class="fl-module-content fl-node-content">
-		<div class="fl-button-wrap fl-button-width-auto fl-button-center">
-			<a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1" target="_blank" class="fl-button" role="button" rel="noopener">
-							<span class="fl-button-text">Private Chat</span>
-					</a>
-			<a href="http://yourrealdatings.com/?u=azx8rk1&o=newkhz2&t=me1" target="_blank" class="fl-button" role="button" rel="noopener">
-							<span class="fl-button-text">Group Chat </span>
 </div>
- 
+</div>
+<script src='../ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+<script src='../malsup.github.io/jquery.cycle2.js'></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/322834226-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY7nxGP7jFgue6TieZxsUjpusosISg:1555791395714';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8134126690473051925','//onlyyreal.blogspot.com/','8134126690473051925');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8134126690473051925', 'title': 'New  DESIGN', 'url': 'https://onlyyreal.blogspot.com/', 'canonicalUrl': 'https://onlyyreal.blogspot.com/', 'homepageUrl': 'https://onlyyreal.blogspot.com/', 'searchUrl': 'https://onlyyreal.blogspot.com/search', 'canonicalHomepageUrl': 'https://onlyyreal.blogspot.com/', 'blogspotFaviconUrl': 'https://onlyyreal.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en-GB', 'localeUnderscoreDelimited': 'en_gb', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22New  DESIGN - Atom\x22 href\x3d\x22https://onlyyreal.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22New  DESIGN - RSS\x22 href\x3d\x22https://onlyyreal.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22New  DESIGN - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8134126690473051925/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/05136417611291199667\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/a70fdefc9ab8bab4', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en_GB\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'New  DESIGN'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard', 'ok': 'Ok', 'postLink': 'Post link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'New  DESIGN', 'description': '', 'url': 'https://onlyyreal.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': []}]);
+</script>
+</body>
+<style id='page-skin-1' type='text/css'><!--
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-
+}
+
+--></style>
+<div class='centered-top-secondline no-items section' id='page_list_top' name='Page list (top)'></div>
+</html>
